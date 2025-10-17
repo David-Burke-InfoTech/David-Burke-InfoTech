@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure Virtual Machine for OSTickets Systems</b>
-  - [Microsoft Azure: Prerequisites and Installation](https://github.com/David-Burke-InfoTech/Microsoft-Azure-Virtual-Machine-for-OSTickets-Systems)
+  - [Microsoft Azure: Virtual Machine Installation](https://github.com/David-Burke-InfoTech/Microsoft-Azure-Virtual-Machine-for-OSTickets-Systems)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
